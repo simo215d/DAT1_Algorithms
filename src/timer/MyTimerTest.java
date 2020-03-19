@@ -1,8 +1,8 @@
+package timer;
+
 import static org.junit.jupiter.api.Assertions.*;
 
 class MyTimerTest {
-
-
 
     @org.junit.jupiter.api.Test
     void currentTimestampTest() {

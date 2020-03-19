@@ -1,3 +1,5 @@
+import timer.MyTimer;
+
 import java.util.Arrays;
 
 /**
@@ -74,7 +76,7 @@ public class SoegningsKlasse {
     }
 
     /**
-     * Main metoden starter programmet
+     * timer.Main metoden starter programmet
      *
      * @param args Det er lige meget med args i dette tilfælde
      */
